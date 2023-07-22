@@ -9,12 +9,6 @@ html {
   box-sizing: inherit; }
 
 body {
-  font-family: "Lato", sans-serif;
-  font-weight: 400;
-  font-size: 1.6rem;
-  line-height: 1.7;
-  color: #777;
-  padding: 3rem;
   box-sizing: border-box; }
 
 @keyframes moveInleft {
@@ -44,6 +38,14 @@ body {
   100% {
     opacity: 1;
     transform: translate(0); } }
+
+body {
+  font-family: "Lato", sans-serif;
+  font-weight: 400;
+  font-size: 1.6rem;
+  line-height: 1.7;
+  color: #777;
+  padding: 3rem; }
 
 .heading-primary {
   color: #ffffff;
@@ -114,7 +116,7 @@ body {
 
 .header {
   height: 95vh;
-  background-image: linear-gradient(to right bottom, rgba(126, 213, 111, 0.92), rgba(43, 138, 62, 0.92)), url(../img/hero.jpg);
+  background-image: linear-gradient(to right, rgba(192, 235, 117, 0.92), rgba(92, 148, 13, 0.92)), url(../img/hero.jpg);
   background-size: cover;
   background-position: top;
   position: relative;
