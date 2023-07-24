@@ -42,3 +42,45 @@ body {
     animation: moveInright 1s ease-in-out;
   }
 }
+
+.heading-secondary {
+  font-size: 3.5rem;
+  text-transform: uppercase;
+  font-weight: 700;
+  letter-spacing: 0.15rem;
+  display: inline-block;
+  background-image: linear-gradient(
+    to right,
+    $color-primary-light,
+    $color-primary-dark
+  );
+  -webkit-background-clip: text;
+  color: transparent;
+}
+.typewriter:active,
+.typewriter:hover {
+  h2 {
+    overflow: hidden; /* Ensures the content is not revealed until the animation */
+    white-space: nowrap; /* Keeps the content on a single line */
+    margin: 0 auto; /* Gives that scrolling effect as the typing happens */
+    letter-spacing: 0.15rem; /* Adjust as needed */
+    animation: typing 3.5s steps(45, jump-start);
+    // text-shadow: 0.5rem 1rem 2rem rgba($color-black, 0.2);
+  }
+}
+
+.typewriter {
+  p {
+    font-size: 2rem;
+    font-family: inherit;
+    line-height: 2.4rem;
+    font-weight: 400;
+    color: $color-grey-dark;
+    display: inline-block;
+    margin: 4.5rem auto;
+    position: absolute;
+    top: 5rem;
+    left: 3.5rem;
+    right: 3.5rem;
+  }
+}
