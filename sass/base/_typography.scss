@@ -93,6 +93,7 @@ body {
 
 .paragraph {
   font-size: 1.6rem;
+  text-align: start;
 
   &:not(:last-child) {
     margin-bottom: 3rem;
