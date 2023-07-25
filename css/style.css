@@ -208,7 +208,8 @@ body {
   transform: translateY(0); }
 
 .composition {
-  position: relative; }
+  position: relative;
+  max-width: 48rem; }
   .composition__photo {
     width: 40rem;
     box-shadow: 0 1.5rem 4rem rgba(0, 0, 0, 0.4);
