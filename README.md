@@ -75,7 +75,7 @@ Capture the magic of your journey with Prakriti's emphasis on nature photography
 
 # Awe-Inspiring Sunsets:
 
-    Witness nature's most breathtaking moments as the sun dips below the horizon during our specially curated sunset experiences. Prakriti takes you to vantage points that offer panoramic views, leaving you in awe of nature's artistry.
+Witness nature's most breathtaking moments as the sun dips below the horizon during our specially curated sunset experiences. Prakriti takes you to vantage points that offer panoramic views, leaving you in awe of nature's artistry.
 
 Join Us in Celebrating Nature's Grandeur:
 
