@@ -216,12 +216,12 @@ body {
     position: absolute; }
     .composition__photo--p1 {
       left: -23rem;
-      top: -18rem; }
+      top: -14rem; }
     .composition__photo--p2 {
-      right: 0;
+      right: -3rem;
       top: 2rem; }
     .composition__photo--p3 {
-      left: -2rem;
+      left: -7rem;
       top: 8rem; }
 
 .header {
