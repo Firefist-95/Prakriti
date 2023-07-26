@@ -4,7 +4,7 @@
   "description": "Welcome to Prakriti, your ultimate online travel companion! Our web app is designed to cater to the wanderlust in you by offering exciting travel packages tailored for groups. Whether you're an adventurous bunch of friends, a close-knit family, or a corporate team seeking a memorable getaway, Prakriti has got you covered.",
   "main": "index.js",
   "scripts": {
-    "compile:sass": "node-sass sass/main.scss css/style.css -w "
+    "build": "node-sass sass/main.scss css/style.css -w "
   },
   "author": "Ranjeet",
   "license": "ISC",
