@@ -34,7 +34,7 @@ Surrender to the soothing rhythm of the waves as you bask in the sun-kissed beac
 
 Lose yourself in the magical allure of vast sand dunes and starry night skies. Our desert expeditions offer camel rides, stargazing sessions, and an opportunity to immerse in the rich heritage of desert cultures.
 
-### Feature
+## Feature
 
 Explore the Prakriti Experience:
 
@@ -58,7 +58,7 @@ Our experienced local guides are passionate about the regions they call home. Th
 
 Adventure is better when shared! Prakriti caters to both individual travelers and groups seeking camaraderie amidst nature's embrace. Whether you're planning a corporate retreat, a family getaway, or a group adventure with friends, we've got the perfect trip for you.
 
-6. Unforgettable Experiences:
+# Unforgettable Experiences:
    At Prakriti, we believe that travel is about more than just seeing new places; it's about creating cherished memories. Our carefully curated experiences, such as stargazing in the desert, sunrise treks, and beach bonfires, promise moments that will stay with you long after you've returned home.
 
 # Hassle-Free Booking:
